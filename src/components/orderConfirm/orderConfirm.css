@@ -1,0 +1,525 @@
+/*产品块儿*/
+.product{
+  width:100%;
+  height:121px;
+  background: #F9F9F9;
+  position:relative;
+  margin-bottom:6px;
+}
+.picIcon{
+  float:left;
+  width:97px;
+  height:97px;
+  margin-top:12px;
+  margin-left:14px;
+}
+.picIcon img{
+  width:100%;
+  height:100%;
+}
+.productdetail{
+  float:left;
+  margin-left:9px;
+  width:56.5%;
+}
+.name{
+  margin-top:14px;
+  font-size: 13px;
+  color: #323232;
+  text-overflow:ellipsis;
+  display:-webkit-box;
+  -webkit-line-clamp:1;
+  -webkit-box-orient: vertical;
+  overflow:hidden;
+  line-height:15px;
+}
+.size{
+  margin-top:6px;
+  font-size: 12px;
+  color: #7D7D7D;
+  text-overflow:ellipsis;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient: vertical;
+  overflow:hidden;
+  line-height:15px;
+}
+.price{
+  margin-top:13px;
+  font-size: 12px;
+  color: #000000;
+  line-height:12px;
+}
+.originalprice{
+  margin-top:5px;
+  font-size: 12px;
+  color: #B1B1B1;
+  text-decoration: line-through;
+  line-height:12px;
+}
+.custom{
+  float:left;
+  margin-right:5px;
+  width:28px;
+  height:12px;
+  background: #323232;
+  font-size: 9px;
+  color: #F5AD03;
+  text-align: center;
+  line-height:12px;
+}
+.num{
+  font-size: 13px;
+  color: #000000;
+  position:absolute;
+  right:3.7%;
+  bottom:18px;
+}
+/*添加地址弹窗*/
+.address-modal-con{
+  max-width:540px;
+  margin:0 auto;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  /*left: 0;*/
+  z-index: 1000;
+  background: gray;
+  overflow: hidden;
+}
+#app{
+  position:relative;
+}
+.address-modal-main-con{
+  max-width:480px;
+  margin:0 auto;
+  position:absolute;
+  /*margin-left:6.1%;*/
+  left:6.1%;
+  top:75px;
+  width: 87.7%;
+  height:389px;
+  background: #ffffff;
+  z-index: 1002;
+  opacity: 1;
+}
+.close{
+  width:100%;
+  height:32px;
+  background: gray;
+  border:0;
+}
+.close img{
+  width:25px;
+  height:25px;
+  position:absolute;
+  top:0;
+  right:0;
+  clear:both;
+}
+.title{
+  font-size: 19px;
+  color: #000000;
+  line-height:49px;
+  text-align: center;
+  border-bottom:1px solid #DCDDDD;
+}
+.editname,.editphone{
+  width:100%;
+  height:45px;
+  font-size: 15px;
+  color: #B1B1B1;
+  line-height:45px;
+  border-bottom:1px solid #DCDDDD;
+}
+.selectarea{
+  width:100%;
+  height:45px;
+  font-size: 15px;
+  color: #B1B1B1;
+  line-height:45px;
+  padding-left:3.7%;
+}
+.editname input,.editphone input{
+  margin-left:3.7%;
+  width:90%;
+  border:none;
+  font-size:15px;
+}
+.editaddress{
+  border-top:1px solid #DCDDDD;
+  width:100%;
+  height:90px;
+  border-bottom:1px solid #DCDDDD;
+  font-size: 15px;
+  color: #B1B1B1;
+}
+.editaddress textarea{
+  margin-top:12px;
+  border:none;
+  width:90%;
+  height:66px;
+  margin-left:3.7%;
+  font-size:15px;
+}
+.saveaddress{
+  margin-top:15px;
+  width:92.5%;
+  height:48px;
+  margin-left:3.7%;
+  background: #F5AD03;
+  font-size: 17px;
+  color: #FFFFFF;
+  text-align: center;
+  line-height:48px;
+  margin-top:15px;
+}
+
+/*抵用券弹窗*/
+.modal-con{
+  max-width:540px;
+  margin:0 auto;
+  width:100%;
+  height:100%;
+  background: gray;
+  position:fixed;
+  top:0;
+  /*left:0;*/
+  z-index:99;
+  overflow:hidden
+}
+.modal-main-con{
+  max-width:540px;
+  margin:0 auto;
+  width:100%;
+  height:64.1%;
+  overflow-y: auto;
+  position:fixed;
+  z-index:100;
+  bottom:0;
+  /*left:0;*/
+  background: #ffffff;
+  margin-bottom:49px;
+}
+.quan{
+  width:88.3%;
+  height:104px;
+  margin-left:5.9%;
+  margin-top:20px;
+  position:relative;
+}
+.quan img{
+  width:100%;
+  height:100%;
+}
+.money{
+  font-size: 25px;
+  color: #050505;
+  position:absolute;
+  top:20px;
+  left:8%;
+}
+.money .quantype{
+  font-size: 13px;
+  color: #050505;
+}
+.description{
+  width:43.2%;
+  height:34px;
+  position:absolute;
+  top:55px;
+  left:8%;
+  font-size: 13px;
+  color: #A56300;
+  overflow:hidden;
+}
+.use{
+  position: absolute;
+  right:9.1%;
+  top:42px;
+  font-size: 15px;
+  color: #A56300;
+}
+.confirm{
+  max-width:540px;
+  margin:0 auto;
+  width:100%;
+  height:49px;
+  background: #F5AD03;
+  position: fixed;
+  bottom:0;
+  text-align: center;
+  line-height:49px;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+/*订单确认页*/
+.orderConfirm{
+  background:#eeeeee;
+  overflow:hidden;
+  min-height:100vh;
+}
+.nav{
+  width:100%;
+  height:44px;
+  background: #323232;
+  font-size: 15px;
+  color: #FFFFFF;
+  text-align: center;
+  line-height:44px;
+}
+.nav img{
+  float:left;
+  width:27px;
+  height:27px;
+  margin-top:9px;
+  margin-left:14px;
+}
+.address{
+  width:100%;
+  height:52px;
+  font-size: 15px;
+  color: #323232;
+  line-height:52px;
+  background: #ffffff;
+}
+.address img{
+  width:22px;
+  height:22px;
+  vertical-align: middle;
+  margin-left:3.7%;
+}
+.addresscard{
+  width:100%;
+  height:94px;
+  background:#ffffff;
+  display: flex;
+  flex-direction: row;
+}
+.addresscard .icon{
+  width:22px;
+  height:20px;
+  margin-left:3.7%;
+  line-height:94px;
+  margin-top:10px;
+}
+.icon img{
+  width:100%;
+  height:100%;
+}
+.addresscard .info{
+  width:81.1%;
+  margin-left:2.1%;
+  margin-top:15px;
+}
+.info .one{
+  font-size: 15px;
+  color: #323232;
+  font-family: PingFangSC-Medium;
+  line-height:15px;
+}
+.info .two{
+  margin-top:11px;
+  width:81.1%;
+  height:38px;
+  font-size: 14px;
+  color: #323232;
+  line-height: 19px;
+}
+.addresscard .arrow{
+  width:8px;
+  height:14px;
+  margin-right:3.7%;
+  line-height:94px;
+}
+.arrow img{
+  width:100%;
+  height:100%;
+}
+.fenge{
+  width:100%;
+  height:10px;
+  background: #eeeeee;
+}
+.orderproduct{
+  width:100%;
+  background: #ffffff;
+  padding-top:6px;
+}
+.orderproduct span{
+  font-size: 15px;
+  color: #323232;
+}
+
+.buyway{
+  width:92.5%;
+  height:45px;
+  margin-left:3.7%;
+  border-bottom:1px solid #DCDDDD;
+  line-height:45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.buyway div{
+  font-size: 15px;
+  color: #323232;
+}
+.message{
+  width:92.5%;
+  height:45px;
+  margin-left:3.7%;
+  line-height:45px;
+}
+.message input{
+  width:71.7%;
+  height:17px;
+}
+.message ::-webkit-input-placeholder{
+  font-size: 14px;
+  color: #B1B1B1;
+  width:269px;
+  text-overflow:ellipsis;
+  display:-webkit-box;
+  -webkit-line-clamp:1;
+  -webkit-box-orient: vertical;
+  overflow:hidden;
+  line-height:14px;
+}
+.ticket{
+  width:100%;
+  height:45px;
+  background: #ffffff;
+  display:flex;
+  flex-direction: row;
+  position:relative;
+}
+.ticket div.redticket{
+  width:66px;
+  height:16px;
+  position:absolute;
+  right:8.3%;
+  margin-top:15px;
+}
+.ticket>div>img{
+  width:100%;
+  height:100%;
+  position:relative;
+}
+div.ticketnum{
+  position:absolute;
+  top:0;
+  font-size:12px;
+  margin-left:4px;
+  color:#fff;
+}
+.ticket span{
+  margin-left:3.7%;
+  line-height:45px;
+  font-size:15px;
+  color: #323232;
+}
+.ticket div.arrow{
+  position: absolute;
+  right:3.7%;
+  margin-top:15px;
+}
+.ticket div.arrow img{
+  width:7px;
+  height:12px;
+}
+.diyongticket{
+  font-size: 15px;
+  color: #FF6161;
+  position:absolute;
+  right:8.3%;
+  line-height:45px;
+}
+.footer{
+  margin-top:49px;
+  max-width:540px;
+  width:100%;
+  height:49px;
+  position:fixed;
+  bottom:0;
+  display:flex;
+  flex-direction: row;
+  background: #ffffff;
+}
+.footer .left{
+  width:66.7%;
+  height:49px;
+}
+.footer .left div{
+  position: absolute;
+  right:35.5%;
+  line-height:49px;
+}
+.footer .right{
+  width:33.3%;
+  height:49px;
+  background: #F5AD03;
+  line-height:49px;
+  text-align: center;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.diyongjin{
+  width:100%;
+  background: #ffffff;
+  margin-top:10px;
+  margin-bottom:49px;
+}
+.diyongmoney{
+  position:relative;
+  width:92.5%;
+  height:60px;
+  margin-left:3.7%;
+  border-bottom:1px solid #DCDDDD;
+}
+.diyongmoney span{
+  float:left;
+  font-size:15px;
+  color: #323232;
+  line-height:60px;
+}
+.diyongmoney .on-of{
+  float:right;
+  width:55px;
+  height:36px;
+  position:absolute;
+  right:0;
+  margin-top:12px;
+}
+.diyongmoney .on-of img{
+  width:100%;
+  height:100%;
+}
+.diyongrule{
+  width:100%;
+}
+.diyongrule span{
+  float:left;
+  font-size: 15px;
+  color: #7D7D7D;
+  line-height:39px;
+  margin-left:3.7%;
+}
+.diyongrule img{
+  width:19px;
+  height:19px;
+  margin-top:10px;
+  margin-left:10px;
+  margin-bottom:10px;
+}
+.ruledetail{
+  clear:both;
+  width:92.5%;
+  height:50px;
+  background: #ffffff;
+  font-size: 13px;
+  color: #7D7D7D;
+  margin-left:3.7%;
+}
+

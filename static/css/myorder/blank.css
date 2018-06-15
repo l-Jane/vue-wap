@@ -1,0 +1,11 @@
+.start {
+		height: 563px;
+		background: url('../../../../src/assets/blank.png') no-repeat center 2.427rem;
+		background-size: 5.6rem 3.493rem;
+	}
+.word {
+	font:0.4rem/0.587rem PingFangSC-Regular;
+	color: #7D7D7D;
+	text-align: center;
+	padding-top: 6.453rem;
+}

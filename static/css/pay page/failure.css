@@ -1,0 +1,40 @@
+/*支付失败*/
+.fail {
+  height: 8.72rem;
+}
+.fail img {
+  width: 2.293rem;
+  height: 2.293rem;
+  top: 2.533rem;
+  left: 50%;
+  transform: translateX(-50%);
+  }
+.payfail {
+  font:0.453rem PingFangSC-Regular;
+  color: #323232;
+  letter-spacing: -0.011rem;
+  padding-top:5.227rem;
+  text-align: center;
+}
+.unfinished {
+  width: 6.88rem;
+  text-align: center;
+  font:0.347rem PingFangSC-Regular;
+  color: #7D7D7D;
+  margin: 0.267rem auto 0 auto;
+  padding-bottom: 0.96rem;
+}
+
+  /*查看订单 返回首页*/
+.finish {
+  height: 9.068rem;
+  padding:0 0.533rem;
+  margin: 0 0.373rem;
+}
+.finish button {
+  padding: 13px 38px;
+  font:0.373rem/0.373rem PingFangSC-Regular;
+  color: #323232;
+  border: 1px solid #323232;
+  margin-top: 0.933rem;
+}

@@ -1,0 +1,112 @@
+/*搜索框*/
+header {
+  height: 36px;
+  background: #323232;
+  padding: 4px 59px 4px 46px;
+}
+input {
+  height: 28px;
+  border-radius: 5px;
+  padding-left: 26px;
+}
+::-webkit-input-placeholder {
+  font: 12px/12px PingFangSC-Regular;
+  color: #8E8E93;
+}
+.logo {
+  width: 27px;
+  height: 27px;
+  top: 5px;
+  left: 14px;
+}
+.search {
+  width: 14px;
+  height: 14px;
+  top: 11px;
+  left: 53px;
+}
+.person {
+  width: 27px;
+  height: 27px;
+  top: 5px;
+  right: 14px;
+}
+
+/*登录*/
+.whole {
+  width: 100vw;
+  height:100vh;
+  background:transparent;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+.login {
+  width: 3.627rem;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.19);
+  border-radius: 4px;
+  top:42px;
+  right:14px;
+  z-index: 1000;
+}
+.triangle {
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0 7.5px 12px 7.5px;
+  border-color: transparent transparent #FFFFFF transparent;
+  top: -10px;
+  right: 6px;
+}
+ul.personlist {
+  list-style: none;
+}
+li.list p {
+  width: 2.133rem;
+  height: 1.173rem;
+  box-sizing: border;
+  margin-left: 0.427rem;
+  font: 0.373rem/1.067rem PingFangSC-Regular;
+  border-bottom: 1px solid #DCDDDD;
+  color: #323232;
+  float: left;
+}
+li.list p.last {
+  border:none;
+}
+li.list img {
+  width: 0.693rem;
+  height: 0.693rem;
+  float: left;
+  margin: 0.213rem 0 0 0.373rem;
+}
+.shopcar,.stick {
+  width: 50px;
+  height: 50px;
+  bottom: 30px;
+}
+.shopcar {
+  background: url('../../../src/assets/shoppingcar.png') no-repeat center;
+  background-size: 50px 50px;
+  left: 0.373rem;
+}
+.stick {
+  background: url('../../../src/assets/totop.png') no-repeat center;
+  background-size: 50px 50px;
+  right: 0.373rem;
+}
+.ontop {
+  width: 100%;
+  max-width: 540px;
+  position: fixed;
+  top: 0;
+  z-index: 2000;
+}
+
+li.list p.coupon {
+  width: 100%;
+  font:10px/44px PingFangSC-Regular;
+  color: #F5AD03;
+  transform:scale(1);
+  border-top: 1px solid #DCDDDD;
+}

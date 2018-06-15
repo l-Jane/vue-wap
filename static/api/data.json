@@ -1,0 +1,758 @@
+[
+  {
+    "allorders":3,
+    "payorders":2,
+    "deliverorders":2,
+    "acceptorders":3,
+    "returnorders":2,
+    "data":[
+      {
+        "status":"1",
+        "num":"1",
+        "deal":"1",
+        "done":"0",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "turnover":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥8000",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=3428648601,2681037055&fm=11&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“复古蓝大三人195*84*78cm",
+            "del":"¥1200"
+          }
+        ]
+      },
+      {
+        "status":"1",
+        "num":"1",
+        "deal":"1",
+        "done":"0",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "turnover":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"预定金￥6500",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=3428648601,2681037055&fm=11&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ]
+      },
+      {
+        "status":"1",
+        "num":"2",
+        "deal":"2",
+        "done":"0",
+        "orderinfo":[
+          {
+            "ordernum":"9999999999999",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35",
+            "delivertime":"2017-05-23 214:45",
+            "turnover":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=3428648601,2681037055&fm=11&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"1",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行最多…",
+            "del":"¥1630"
+          }
+        ],
+        "logistics":[
+          {
+            "company":"zhongtong速递",
+            "newest":{
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          },
+          [
+            {
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"【丽水市】圆通快递 浙江庆元县公司收件员 已揽件",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"包裹正在等待揽收",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的包裹已出库",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的订单待配货",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的订单开始处理",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          ]
+        ]
+      },
+      {
+        "status":"1",
+        "num":"1",
+        "deal":"2",
+        "done":"0",
+        "orderinfo":[
+          {
+            "ordernum":"666666666666666",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35(预定金)",
+            "lastpay":"2017-05-23 214:35(尾款)",
+            "delivertime":"2017-05-23 214:45",
+            "turnover":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"预定金￥6500",
+            "finalpay":"尾款￥1452",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=3428648601,2681037055&fm=11&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥130/块"
+          }
+        ],
+        "logistics":[
+          {
+            "company":"顺丰速递",
+            "newest":{
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          },
+          [
+            {
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"【丽水市】圆通快递 浙江庆元县公司收件员 已揽件",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"包裹正在等待揽收",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的包裹已出库",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的订单待配货",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的订单开始处理",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          ]
+        ]
+      },
+      {
+        "status":"1",
+        "num":"2",
+        "deal":"2",
+        "done":"1",
+        "orderinfo":[
+          {
+            "ordernum":"37737378169261",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35(预定金)",
+            "delivertime":"2017-05-23 214:45",
+            "turnover":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=3428648601,2681037055&fm=11&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"2",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行",
+            "del":"¥1023"
+          },
+          {
+            "date":"2017-05-23 214:35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=3428648601,2681037055&fm=11&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"2",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行",
+            "del":"¥1023"
+          }
+        ],
+        "logistics":[
+          {
+            "company":"天天速递",
+            "newest":{
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          },
+          [
+            {
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"【丽水市】圆通快递浙江庆元县公司收件员 已揽件",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"包裹正在等待揽收",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的包裹已出库",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的订单待配货",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"您的订单开始处理",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          ]
+        ]
+      },
+      {
+        "status":"2",
+        "num":"1",
+        "car":"0",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=505553013,3448842626&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行最多…",
+            "del":"¥1023"
+          },
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=505553013,3448842626&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行最多…",
+            "del":"¥1023"
+          }
+        ]
+      },
+      {
+        "status":"2",
+        "num":"1",
+        "car":"1",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=505553013,3448842626&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行最多…",
+            "del":"¥10023"
+          }
+        ]
+      },
+      {
+        "status":2,
+        "reserve":0,
+        "num":1,
+        "car":0,
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"预定金￥6500",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=505553013,3448842626&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ]
+      },
+      {
+        "status":"2",
+        "reserve":"1",
+        "num":"1",
+        "car":"0",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35(预定金)"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"尾款计算中",
+            "total":"计算中"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=505553013,3448842626&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ]
+      },
+      {
+        "status":"2",
+        "reserve":"2",
+        "num":"1",
+        "car":"0",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35(预定金)"
+          }
+        ],
+        "prices":[
+          {
+            "finalpay":"尾款￥1452",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=505553013,3448842626&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ]
+      },
+      {
+        "status":"3",
+        "num":"2",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2874365650,649077718&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行",
+            "del":"¥2800"
+          },
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2874365650,649077718&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行",
+            "del":"¥2800"
+          }
+        ]
+      },
+      {
+        "status":3,
+        "num":1,
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35(预定金)"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"预定金￥6500",
+            "finalpay":"尾款￥1452",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2874365650,649077718&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ]
+      },
+      {
+        "status":"4",
+        "num":"2",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35",
+            "delivertime":"2017-05-23 214:45"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3893751529,2826221516&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行最多…",
+            "del":"¥1230"
+          },
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3893751529,2826221516&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯 日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"2",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行最多…",
+            "del":"¥1230"
+          }
+        ],
+        "logistics":[
+          {
+            "company":"顺丰速递",
+            "newest":{
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          },
+          [
+            {
+              "b_status":"【丽水市】圆通快递 浙江庆元县公司收件员 已揽件",
+              "b_date":"2017-08-13 11:48:58"
+            },
+            {
+              "b_status":"包裹正在等待揽收",
+              "b_date":"2017-08-13 11:48:58"
+            }
+          ]
+        ]
+      },
+      {
+        "status":"4",
+        "num":"1",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23 214:35",
+            "paytime":"2017-05-23 214:35(预定金)",
+            "lastpay":"2017-05-23 214:35(尾款)",
+            "delivertime":"2017-05-23 214:45"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"预定金￥6500",
+            "finalpay":"尾款￥1452",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23 214:35",
+            "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3893751529,2826221516&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ],
+        "logistics":[
+          {
+            "company":"中通速递",
+            "newest":{
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-1311: 48: 58"
+            }
+          },
+          [
+            {
+              "b_status":"【丽水市】圆通快递浙江庆元县公司收件员已揽件",
+              "b_date":"2017-08-1311: 48: 58"
+            }
+          ]
+        ]
+      },
+      {
+        "status":"5",
+        "num":"2",
+        "deliver":"0",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23214: 35",
+            "paytime":"2017-05-23214: 35",
+            "delivertime":"2017-05-23214: 45"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"￥6500",
+            "discounts":"￥650",
+            "instead":"￥258",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23214: 35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=2935500429,3823487197&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":1,
+            "content":"已选择“大三人195*84*78cm复古蓝”两行",
+            "del":"¥1562"
+          },
+          {
+            "date":"2017-05-23214: 35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=2935500429,3823487197&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯日本产品设计师铃木启太设计",
+            "cust":"1",
+            "refund":"0",
+            "advance":"¥1000",
+            "count":"1",
+            "content":"已选择“大三人195*84*78cm复古蓝”两行",
+            "del":"¥1562"
+          }
+        ],
+        "logistics":[
+          {
+            "company":"圆通速递",
+            "newest":{
+              "b_status":"用户确认收货",
+              "b_date":"2017-08-1311: 48: 58"
+            }
+          },
+          [
+            {
+              "b_status":"【丽水市】圆通快递浙江庆元县公司收件员已揽件",
+              "b_date":"2017-08-1311: 48: 58"
+            }
+          ]
+        ]
+      },
+      {
+        "status":"5",
+        "num":"1",
+        "deliver":"1",
+        "orderinfo":[
+          {
+            "ordernum":"1212121212121212",
+            "createtime":"2017-05-23214: 35",
+            "paytime":"2017-05-23214: 35(预定金)",
+            "lastpay":"2017-05-23214: 35(尾款)"
+          }
+        ],
+        "prices":[
+          {
+            "alltotal":"预付金￥6500",
+            "finalpay":"尾款￥1452",
+            "total":"￥6500"
+          }
+        ],
+        "items":[
+          {
+            "date":"2017-05-23214: 35",
+            "img":"http://img0.imgtn.bdimg.com/it/u=2935500429,3823487197&fm=27&gp=0.jpg",
+            "title":"富士山玻璃杯日本产品设计师铃木启太设计",
+            "cust":"2",
+            "refund":"0",
+            "advance":"预定金¥1000",
+            "count":"1",
+            "content":"已选择“默认”",
+            "del":"¥100/块"
+          }
+        ]
+      }
+    ]
+  }
+]

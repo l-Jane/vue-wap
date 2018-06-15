@@ -1,0 +1,68 @@
+div.mint-navbar {
+  height: 0.907rem;
+  border-bottom: 1px solid #DCDDDD;
+}
+.mint-navbar .mint-tab-item {
+  padding: 0!important;
+  height: 0.64rem!important;
+  margin-top: 0.24rem;
+}
+.mint-navbar .mint-tab-item.is-selected[data-v-b0bce500][data-v-b0bce500], .mint-navbar .mint-tab-item[data-v-b0bce500],div.mint-tab-item-label,.mint-navbar .mint-tab-item.is-selected {
+  font:15px/34px PingFangSC-Regular;
+  color: #323232;
+}
+div.mint-navbar .mint-tab-item.is-selected {
+  border-bottom: 2px solid  #F5AD03;
+  height: 32px;
+}
+div.mint-navbar .mint-tab-item.is-selected {
+  color: #F5AD03!important;
+}
+div.mint-tab-item-label {
+  color: inherit;
+  font:0.4rem/0.4rem PingFangSC-Regular!important;
+  color: #323232;
+}
+
+
+.whole {
+  padding:0.267rem 14px 0.4rem 14px;
+  margin-bottom:0.267rem;
+}
+.date,.state {
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #7D7D7D;
+}
+.state {
+  color: #F5AD03;
+}
+
+.only {
+  padding-bottom: 0.213rem;
+  border-bottom: 1px solid #DCDDDD;
+}
+.total p {
+  font:0.267rem/0.267rem PingFangSC-Regular;
+  -webkit-transform:scale(0.8);
+  color: #323232;
+  margin-top: 0.267rem;
+}
+.totalprice {
+  margin-left: -0.267rem;
+}
+.totalprice .sum {
+  font:0.48rem/0.4rem PingFangSC-Regular;
+  color: #141414;
+}
+.returns {
+  font:0.293rem/0.293rem PingFangSC-Regular;
+  color: #F5AD03;
+}
+p.count {
+  font:0.4rem/0.4rem PingFangSC-Regular;
+  color: #323232;
+}
+.alltotal {
+  font:0.48rem/0.48rem PingFangSC-Regular;
+  color: #141414;
+}

@@ -1,0 +1,165 @@
+.off {
+  height: 2.8rem!important;
+  background-image: linear-gradient(-218deg, #DE5E40 0%, #751BFC 100%);
+  background-image: linear-gradient(-223deg, rgba(240,206,184,0.72) 0%, rgba(193,173,126,0.79) 100%);
+  padding: 0.587rem 0.373rem 0.533rem 1.067rem;
+}
+.off img {
+  width: 0.56rem;
+  height: 0.56rem;
+  top: 0.533rem;
+  left: 0.373rem;
+}
+.stop {
+  font:0.427rem/0.427rem PingFangSC-Regular;
+  color: #FFFFFF;
+}
+.desc {
+  font:0.373rem/0.507rem PingFangSC-Regular;
+  color: #FFFFFF;
+  margin-top: 0.24rem;
+}
+.info {
+  padding: 0.4rem 0.373rem 0.4rem 0.907rem;
+}
+.master {
+  font: 0.347rem/0.347rem PingFangSC-Regular;
+  color: #323232;
+}
+.master span {
+  margin-left: 0.8rem;
+}
+.site img {
+  width: 0.32rem;
+  height: 0.4rem;
+  top: 1.04rem;
+  left: 0.373rem;
+}
+.site {
+  font:0.347rem/0.453rem PingFangSC-Regular;
+  color: #323232;
+  margin-top: 0.267rem;
+}
+.explain {
+  padding: 0.213rem 0;
+  border-bottom: 1px solid #DCDDDD;
+}
+.explain span {
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #7D7D7D;
+}
+
+/*详情页公共样式*/
+.gross {
+  padding: 0.053rem 0.373rem 0 0.373rem;
+  margin-top:0.267rem;
+}
+
+/*详情页底部按钮*/
+.footer {
+  height: 1.333rem;
+  padding: 0.293rem 0.373rem 0.293rem 0;
+  margin-top: 0.267rem;
+}
+.footer button {
+  padding: 0.187rem 0.213rem 0.187rem 0.24rem;
+  font:0.373rem/0.373rem PingFangSC-Regular;
+  color: #323232;
+  border: 1px solid #7D7D7D;
+  margin-left: 0.4rem;
+}
+
+/*订单详情*/
+.orderinfo {
+  margin-top:0.267rem;
+  padding:0 0.373rem;
+}
+.inner {
+  border-bottom:1px solid  #DCDDDD;
+  padding:0.507rem 0 0.187rem 0;
+}
+.inner p,div.lastpay{
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #7D7D7D;
+  margin-bottom: 0.213rem;
+}
+.ordercopy {
+  border: 1px solid #7D7D7D;
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #7D7D7D;
+  padding:0.107rem 0.267rem;
+  top: 0.507rem;
+  right: 0;
+}
+.lastpay {
+  margin-left: 1.6rem;
+}
+/*合计*/
+.pricetotal {
+  padding-top:0.267rem;
+}
+.total {
+  padding: 0.4rem 0.373rem;
+}
+.add {
+  padding-bottom:0.267rem;
+}
+.add span {
+  font: 0.373rem/0.373rem PingFangSC-Regular;
+  color: #323232;
+}
+span.money {
+  color: #FF6161;
+}
+p.prompt {
+  border-top: 1px solid #DCDDDD;
+  padding-top: 15px;
+  font:13px PingFangSC-Regular;
+  color: #7D7D7D;
+}
+
+/*联系客服*/
+.contact {
+  padding:0.507rem 0.373rem;
+}
+.session {
+  width: 0.64rem;
+  height: 0.64rem;
+}
+.relation {
+  font:0.427rem/0.427rem PingFangSC-Regular;
+  color: #323232;
+  margin:0.107rem 0 0 0.133rem;
+}
+.arrow {
+  width: 0.213rem;
+  height: 0.373rem;
+  margin-top: 0.107rem;
+}
+
+/*物流状态*/
+.sign {
+  height: 1.653rem;
+  padding: 0.427rem 0 0 0.373rem;
+}
+.signinner {
+  width: 9.253rem;
+  padding:0 0 0.187rem 0.533rem;
+  border-bottom: 1px solid #DCDDDD;
+}
+.signed,.signdate {
+  font: 0.347rem/0.347rem PingFangSC-Regular;
+  color: #F5AD03;
+  margin-bottom: 0.16rem;
+}
+.signinner img {
+  width: 0.213rem;
+  height: 0.373rem;
+  top: 0;
+  right: 0;
+}
+
+.remind {
+  color: #F5AD03!important;
+  border: 1px solid #F5AD03!important;
+}

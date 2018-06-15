@@ -1,0 +1,96 @@
+.header {
+		height: 44px;
+		background: #323232;
+	}
+.back {
+		width: 27px;
+		height: 27px;
+		margin: 9px 0 0 14px;
+	}
+.logistics {
+		text-align: center;
+		font:15px/44px PingFangSC-Regular;
+		color: #FFFFFF;
+		margin-left: 3.12rem;
+	}
+.type {
+		height: 1.733rem;
+		padding: 0.4rem 0.373rem;
+	}
+.logo img {
+		width: 0.933rem;
+		height: 0.933rem;
+	}
+.right {
+		margin-left: 0.4rem;
+	}
+.right p {
+		font:0.32rem/0.48rem PingFangSC-Regular;
+		color: #7D7D7D;
+	}
+.copy {
+  padding: 0.107rem 0.267rem;
+  border: 1px solid #7D7D7D;
+  bottom: 0.347rem;
+  right: 0.373rem;
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #7D7D7D;
+}
+.tracking {
+  margin-top: 0.267rem;
+  padding: 0.4rem 0.64rem;
+}
+.image img {
+  width: 0.933rem;
+  height: 0.933rem;
+  border: 1px solid #323232;
+  border-radius: 50% 50%;
+  float: left;
+  margin-right: 0.267rem;
+}
+.tail {
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #323232;
+  margin-top: 0.4rem;
+}
+.success {
+  height: 1.867rem;
+  margin-top: 0.587rem;
+  padding: 0 0 0.8rem 0.587rem;
+  border-left: 1px solid #D8D8D8;
+}
+.success img {
+  width: 0.56rem;
+  height: 0.56rem;
+  top: -0.053rem;
+  left: -0.293rem;
+}
+.status,.date {
+  font: 0.347rem PingFangSC-Regular;
+  color: #F5AD03;
+}
+.date {
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  margin-top: 0.267rem;
+}
+.flow {
+  margin-top: 0.24rem;
+}
+.b_status {
+  width: 7.413rem;
+  font:0.347rem PingFangSC-Regular;
+  color: #323232;
+}
+.b_date {
+  font:0.32rem/0.32rem PingFangSC-Regular;
+  color: #7D7D7D;
+  margin-top: 0.267rem;
+}
+.dot {
+  width: 0.133rem;
+  height: 0.133rem;
+  background: #D8D8D8;
+  border-radius: 50%;
+  top: -0.187rem;
+  left: -0.08rem;
+}

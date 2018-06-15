@@ -1,0 +1,564 @@
+[
+  {
+    "imglists": [
+      {
+        "img": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4110689965,3367293059&fm=200&gp=0.jpg"
+      },
+      {
+        "img": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4110689965,3367293059&fm=200&gp=0.jpg"
+      },
+      {
+        "img": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4110689965,3367293059&fm=200&gp=0.jpg"
+      },
+      {
+        "img": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4110689965,3367293059&fm=200&gp=0.jpg"
+      }
+    ],
+    "ticketslength": 6,
+    "tickets": [
+      {
+        "id": 1,
+        "state": 0,
+        "price": "123",
+        "usable": "满1w可用"
+      },
+      {
+        "id": 2,
+        "state": 0,
+        "price": "300",
+        "usable": "满1w可用"
+      },
+      {
+        "id": 3,
+        "state": 0,
+        "price": "400",
+        "usable": "满1w可用"
+      },
+      {
+        "id": 4,
+        "state": 0,
+        "price": "456",
+        "usable": "满1w可用"
+      },
+      {
+        "id": 5,
+        "state": 0,
+        "price": "555",
+        "usable": "满1w可用"
+      },
+      {
+        "id": 5,
+        "state": 0,
+        "price": "666",
+        "usable": "满3w可用"
+      }
+    ],
+    "classifylength": 13,
+    "classify": [
+      {
+        "id": 0,
+        "name": "推荐"
+      },
+      {
+        "id": 1,
+        "name": "灯饰"
+      },
+      {
+        "id": 2,
+        "name": "软装"
+      },
+      {
+        "id": 3,
+        "name": "笔记本"
+      },
+      {
+        "id": 4,
+        "name": "软装"
+      },
+      {
+        "id": 5,
+        "name": "沙发"
+      },
+      {
+        "id": 6,
+        "name": "软装"
+      },
+      {
+        "id": 7,
+        "name": "灯饰"
+      },
+      {
+        "id": 8,
+        "name": "桌椅"
+      },
+      {
+        "id": 9,
+        "name": "沙发"
+      },
+      {
+        "id": 10,
+        "name": "电脑"
+      },
+      {
+        "id": 11,
+        "name": "笔记本"
+      },
+      {
+        "id": 12,
+        "name": "灯饰"
+      }
+    ],
+    "homeproducts": [
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 1,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 1,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 1,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 0,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "123",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 2,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 2,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 2,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 2,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 2,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 2,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 3,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 4,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 4,
+        "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3942849759,2877291407&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 4,
+        "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3942849759,2877291407&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 4,
+        "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3942849759,2877291407&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 4,
+        "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3942849759,2877291407&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 4,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 5,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 5,
+        "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3942849759,2877291407&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 5,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 5,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 5,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 5,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      },
+      {
+        "id": 6,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 6,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 6,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 6,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 2,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "预定金：￥1000"
+      },
+      {
+        "id": 6,
+        "img": "http://img2.imgtn.bdimg.com/it/u=2857117382,2804518828&fm=27&gp=0.jpg",
+        "name": "棉麻舒适单人沙发椅可拆洗颜色两行字字字字字字字字字…",
+        "cust": 1,
+        "bought": "345",
+        "total": "￥99900",
+        "earnest": "￥1000"
+      }
+    ]
+  }
+]

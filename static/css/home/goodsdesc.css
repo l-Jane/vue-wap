@@ -1,0 +1,69 @@
+.outer {
+  width:50%;
+  border-right: 1px solid #DCDDDD;
+  border-bottom: 1px solid #DCDDDD;
+  padding:1.3vh 0;
+  float: left;
+}
+.goods {
+  margin: 0 4%;
+}
+.goods img {
+	height: 4.213rem;
+}
+div.name {
+	height: 0.96rem;
+	margin: 0.107rem 0 0.133rem 0;
+	font: 0.32rem/0.48rem PingFangSC-Regular;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+}
+div.same {
+  height: 0.533rem;
+}
+span.cust {
+	background: #323232;
+	color: #F5AD03;
+	padding: 0 0.133rem;
+  -webkit-transform-origin-x: 0;
+  -webkit-transform: scale(0.90);
+	font: 0.24rem/0.267rem PingFangSC-Regular;
+  margin-right: 0.053rem;
+}
+div.bought {
+	font:0.32rem/0.373rem PingFangSC-Regular;
+	color: #7D7D7D;
+	display: inline-block;
+}
+div.total {
+	font:0.427rem/0.4rem PingFangSC-Medium;
+	color: #FF5353;
+	margin:0.267rem 0 0.08rem 0;
+}
+div.total span {
+	font:0.427rem/0.4rem PingFangSC-Semibold;
+	color: #FF5353;
+}
+div.earnest {
+	font:0.32rem/0.32rem PingFangSC-Regular;
+	color: #C4C4C4;
+}
+.delete {
+  text-decoration: line-through;
+}
+div.bug {
+	width: 1.067rem;
+	height: 20px;
+	line-height: 20px;
+	border: 1px solid #000000;
+	text-align: center;
+	right: 0;
+	bottom: 0;
+}
+del {
+	font:0.32rem/0.32rem PingFangSC-Regular;
+	color: #C4C4C4;
+}

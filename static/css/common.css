@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-tap-highlight-color: transparent;
+	-moz-tap-highlight-color: transparent;
+  -webkit-touch-callout:none;
+  -webkit-user-select:none;
+  -khtml-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}
+body {
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+}
+input,button  {
+	border: none;
+	outline: none;
+	-webkit-appearance: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+  outline:none;
+}
+#app {
+	width:100%;
+  max-width: 540px;
+  margin: 0 auto;
+}
+body {
+  background: #EEE;
+}
+.rela {
+	position: relative;
+}
+.abso {
+	position: absolute;
+}
+.fixed {
+	position: fixed;
+}
+.full {
+  width: 100%;
+}
+.hidden {
+  overflow: hidden;
+}
+.border {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.content {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box ;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clearfix::after {
+    content: ".";
+    clear: both;
+    display: block;
+    overflow: hidden;
+    font-size: 0;
+    height: 0;
+}
+.bg {
+  background: #FFF;
+}
+
+/*Toast*/
+.mui-toast-container {bottom: 50% !important;}
+.mui-toast-message {
+  background:red;
+  opacity: 0.6;
+  color: #fff;
+  width: 180px;
+  padding: 70px 5px 10px 5px;
+}
+

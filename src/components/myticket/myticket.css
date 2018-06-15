@@ -1,0 +1,67 @@
+.myticket{
+  background:#ffffff;
+  padding-bottom:15px;
+}
+.nav{
+  width:100%;
+  height:44px;
+  background: #323232;
+  font-size: 15px;
+  color: #FFFFFF;
+  text-align: center;
+  line-height:44px;
+}
+.nav img{
+  float:left;
+  margin-left:3.7%;
+  margin-top:9px;
+  width:27px;
+  height:27px;
+}
+.quan{
+  width:92.5%;
+  height:122px;
+  margin-left:3.7%;
+  margin-top:10px;
+  position:relative;
+  margin-bottom:5px;
+}
+.quan img{
+  width:100%;
+  height:100%;
+}
+.money{
+  font-size: 25px;
+  color: #050505;
+  position:absolute;
+  top:20px;
+  left:8%;
+}
+.money .quantype{
+  font-size: 13px;
+  color: #050505;
+}
+.description{
+  width:43.2%;
+  height:34px;
+  position:absolute;
+  top:55px;
+  left:8%;
+  font-size: 13px;
+  color: #A56300;
+  overflow:hidden;
+}
+.rule{
+  font-size: 13px;
+  color: #A56300;
+  position:absolute;
+  top:94px;
+  left:8%;
+}
+.use{
+  position: absolute;
+  right:9.1%;
+  top:54px;
+  font-size: 15px;
+  color: #A56300;
+}

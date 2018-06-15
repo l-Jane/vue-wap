@@ -1,0 +1,308 @@
+/*添加地址弹窗*/
+#app{
+  position:relative;
+}
+.modal-con{
+  max-width:540px;
+  margin:0 auto;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  /*left: 0;*/
+  z-index: 1000;
+  background: gray;
+  overflow: hidden;
+}
+.modal-main-con{
+  max-width:480px;
+  margin:0 auto;
+  position:absolute;
+  /*margin-left:6.1%;*/
+  left:6.1%;
+  top:75px;
+  width: 87.7%;
+  height:389px;
+  background: #ffffff;
+  z-index: 1002;
+  opacity: 1;
+}
+.close{
+  width:100%;
+  height:32px;
+  background: gray;
+  border:0;
+}
+.close img{
+  width:25px;
+  height:25px;
+  position:absolute;
+  top:0;
+  right:0;
+  clear:both;
+}
+.title{
+  font-size: 19px;
+  color: #000000;
+  line-height:49px;
+  text-align: center;
+  border-bottom:1px solid #DCDDDD;
+}
+.editname,.editphone{
+  width:100%;
+  height:45px;
+  font-size: 15px;
+  color: #B1B1B1;
+  line-height:45px;
+  border-bottom:1px solid #DCDDDD;
+}
+.selectarea{
+  width:100%;
+  height:45px;
+  font-size: 15px;
+  color: #B1B1B1;
+  line-height:45px;
+  padding-left:3.7%;
+}
+.editname input,.editphone input{
+  margin-left:3.7%;
+  width:90%;
+  border:none;
+  font-size:15px;
+}
+.editaddress{
+  border-top:1px solid #DCDDDD;
+  width:100%;
+  height:90px;
+  border-bottom:1px solid #DCDDDD;
+  font-size: 15px;
+  color: #B1B1B1;
+}
+.editaddress textarea{
+  margin-top:12px;
+  border:none;
+  width:90%;
+  height:66px;
+  margin-left:3.7%;
+  font-size:15px;
+}
+.saveaddress{
+  margin-top:15px;
+  width:92.5%;
+  height:48px;
+  margin-left:3.7%;
+  background: #F5AD03;
+  font-size: 17px;
+  color: #FFFFFF;
+  text-align: center;
+  line-height:48px;
+  margin-top:15px;
+}
+
+/*地址列表*/
+.address{
+  background:#eeeeee;
+  overflow:hidden;
+  min-height:100vh;
+}
+.nav{
+  width:100%;
+  height:44px;
+  background: #323232;
+  font-size: 15px;
+  color: #FFFFFF;
+  text-align: center;
+  line-height:44px;
+}
+.nav img{
+  float:left;
+  width:27px;
+  height:27px;
+  margin-top:9px;
+  margin-left:14px;
+}
+.card{
+  width:100%;
+  background:#ffffff;
+  margin-bottom:10px;
+}
+.name{
+  padding-top:15px;
+  margin-left:14px;
+  font-size: 15px;
+  color: #323232;
+  line-height:15px;
+}
+.addressdetail{
+  margin-top:15px;
+  margin-left:3.7%;
+  width:92.5%;
+  font-size: 15px;
+  color: #323232;
+  line-height:20px;
+}
+.line{
+  margin-top:10px;
+  margin-left:3.7%;
+  width:92.5%;
+  height:1px;
+  background: #DCDDDD;
+}
+.last{
+  height:46px;
+  width:100%;
+  display: flex;
+  flex-direction: row;
+  position:relative;
+}
+.default{
+  margin-left:3.7%;
+  margin-top:10px;
+  display: flex;
+  flex-direction: row;
+}
+.default img{
+  width:26px;
+  height:26px;
+
+}
+.default div{
+  font-size: 13px;
+  color: #B1B1B1;
+  margin-top: 3px;
+}
+.edit{
+  position:absolute;
+  right:22.7%;
+  margin-top:10px;
+  display: flex;
+  flex-direction: row;
+}
+.edit img{
+  width:26px;
+  height:26px;
+  vertical-align: middle;
+}
+.edit div{
+  font-size: 13px;
+  color: #B1B1B1;
+  margin-top:5px;
+}
+.delete{
+  position:absolute;
+  right:3.7%;
+  margin-top:10px;
+  display: flex;
+  flex-direction: row;
+}
+.delete img{
+  width:26px;
+  height:26px;
+  vertical-align: middle;
+}
+.delete div{
+  font-size: 13px;
+  color: #B1B1B1;
+  margin-top:5px;
+}
+.addaddress{
+  margin-top:40px;
+  margin-left:33.9%;
+  width:100%;
+  height:300px;
+  display: flex;
+  flex-direction: row;
+}
+.addaddress img{
+  width:22px;
+  height:22px;
+  vertical-align: middle;
+}
+.addaddress div{
+  margin-left:10px;
+  font-size: 15px;
+  color: #323232;
+}
+
+/*删除按钮的模态框*/
+.drawer_screen {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background: #000;
+  opacity: 0.5;
+  overflow: hidden;
+}
+.delete_box{
+  width:295px;
+  height:158px;
+  overflow: hidden;
+  z-index: 1001;
+  background: #FAFAFA;
+  border-radius: 3px;
+  position:fixed;
+  top:149px;
+  left:10.7%;
+  border-top:5px solid  rgba(245,173,3,0.70);
+}
+.delete_title{
+  font-size: 15px;
+  color: #323232;
+  margin-top:25px;
+  margin-left:118px;
+}
+.delete_content{
+  font-size: 15px;
+  color: #323232;
+  margin-top:15px;
+  margin-left:80px;
+}
+.btnDelete{
+  display: flex;
+  flex-direction: row;
+  margin-top:35px;
+  margin-left:48px;
+}
+.btnDelete .confirm,.btnDelete .cancel{
+  width:75px;
+  height:28px;
+  border: 1px solid #7D7D7D;
+  font-size: 14px;
+  color: #323232;
+  text-align: center;
+  line-height: 28px;
+}
+.btnDelete .cancel{
+  margin-left:49px;
+}
+/*无收货地址*/
+.noaddresspic{
+  width:56%;
+  height:130px;
+  margin-top:91px;
+  margin-left:22.1%;
+}
+.noaddresspic img{
+  width:100%;
+  height:100%;
+}
+.noaddressword{
+  margin-top:20px;
+  text-align: center;
+  font-size: 15px;
+  color: #7D7D7D;
+}
+.noaddressbtn{
+  width:36%;
+  height:40px;
+  margin-top:30px;
+  margin-left:32%;
+  border:1px solid #323232;
+  font-size: 14px;
+  color: #323232;
+  line-height:40px;
+  text-align: center;
+}

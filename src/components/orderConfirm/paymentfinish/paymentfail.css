@@ -1,0 +1,50 @@
+#app{
+  min-height:100vh;
+  background: #ffffff;
+}
+.paymentfail{
+  width:100%;
+  height:100%;
+  background: #fff;
+}
+.icon{
+  padding-top:95px;
+  margin:0 auto;
+  width:86px;
+  height:86px;
+}
+.icon>img{
+  width:100%;
+  height:100%;
+}
+.payfail{
+  font-size: 17px;
+  color: #323232;
+  text-align: center;
+  margin-top:15px;
+}
+.description{
+  width:68.8%;
+  margin-left:15.7%;
+  margin-top:10px;
+  font-size: 13px;
+  color: #7D7D7D;
+  text-align: center;
+}
+.footer{
+  margin-left:9.1%;
+  margin-top:35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer div{
+  border: 1px solid #323232;
+  width:36%;
+  height:40px;
+  font-size: 14px;
+  color: #323232;
+  margin-right:9.9%;
+  text-align: center;
+  line-height:40px;
+}

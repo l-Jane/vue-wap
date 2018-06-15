@@ -1,0 +1,85 @@
+.bigscreen {
+  height: 1.86rem;
+  overflow: hidden;
+}
+.small {
+  padding:0 0 20px 0;
+}
+.screen {
+	overflow-x: auto;
+}
+ul.tickets {
+	width:300vw;
+	height: 1.86rem;
+	padding-left: 0.24rem;
+	list-style: none;
+}
+ul.tickets li {
+	width: 4.427rem;
+	height: 1.6rem;
+	margin: 0.133rem;
+	background: #FFD535;
+	float: left;
+}
+ul.tickets li .inner {
+	width: 4.16rem;
+	height: 1.333rem;
+	margin: 0.107rem;
+	border: 1px solid #FFFFFF;
+}
+p.price {
+	margin: 1vh 0 0 2.1vw;
+}
+p.price em {
+	font:normal 600 0.427rem PingFangSC-Regular;
+}
+p.usable {
+	font:0.32rem/0.32rem PingFangSC-Regular;
+	margin: 0.3vh 0 0 2.1vw;
+	color: #000000;
+}
+div.get {
+	padding: 0.053rem 0.187rem 0.08rem 0.187rem;
+	background: #F5AD03;
+	border-radius: 55px;
+	right: 2.1vw;
+	top: 0.4rem;
+}
+span.get {
+	font:0.293rem PingFangSC-Regular;
+	color: #FFFFFF;
+}
+.get.getsuccess {
+	color: #F5AD03;
+}
+div.get.had {
+	background: #FFD535;
+}
+
+/*领券*/
+.toast {
+  width: 5.093rem;
+  height: 1.067rem;
+  background: rgba(0,0,0,0.77);
+  border-radius: 45px;
+  top: 6.48rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+}
+.toast img {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin: 0.293rem 0 0 1.333rem;
+}
+.toast span {
+  margin:0.293rem 0 0 0.213rem;
+  font:0.347rem PingFangSC-Regular;
+  color: #FFFFFF;
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 1s;
+}
+.fade-enter, .fade-leave-active {
+  opacity: 0;
+}

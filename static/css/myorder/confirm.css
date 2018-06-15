@@ -1,0 +1,42 @@
+.zindex {
+  width: 540px;
+  z-index: 1000;
+  top: 0;
+}
+.confirm {
+  height: 100vh;
+  background-color:rgba(97,97,97,0.8);
+}
+.prompt {
+  border-top: 0.133rem solid rgba(245,173,3,0.70);
+  border-radius: 4px;
+  width: 7.867rem;
+  max-width:460px ;
+  top: 4.16rem;
+  left: 40px;
+  padding:0.667rem 48px;
+}
+.hint {
+  font:0.4rem/0.4rem PingFangSC-Regular;
+  color: #323232;
+  text-align: center;
+}
+.hintchoose {
+  font:0.4rem/0.587rem PingFangSC-Regular;
+  color: #323232;
+  margin-top: 0.32rem;
+  text-align: center;
+}
+.prompt button {
+  width: 2.0rem;
+  border: none;
+  border: 1px solid #7D7D7D;
+  font:0.373rem/0.373rem PingFangSC-Regular;
+  color: #323232;
+  padding:0.187rem 0.213rem 0.24rem 0.213rem;
+  margin-top: 0.907rem;
+}
+button.cancel {
+  border:1px solid #F5AD03;
+  color: #F5AD03;
+}
